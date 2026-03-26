@@ -104,17 +104,9 @@ jupyter notebook
 
 ---
 
-## 📸 Results
+##  Results
 - Accuracy and Loss plots  
 - Confusion matrices  
 - Prediction visualisations  
-
-
-
-
-
-
 ---
 
-## ⭐ If you like this project
-Give it a star on GitHub!
